@@ -5,7 +5,9 @@
 It's a practice project for python beginners. 
 
 *👉 Imagine that a vanquished dragon’s loot is represented as a list of strings like  this:*
-``` dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby'] ```
+```
+dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby'] 
+```
 
 ***👉 No.1 Write a function named `addToInventory(inventory, addedItems)`, where the `inventory parameter` is a `dictionary` representing the `player’s inventory` (like in the previous project: [Inventory](https://github.com/mullaghori/Inventory/blob/main/README.md) ) and the `addedItems parameter` is a list like  `dragonLoot`.***
 
